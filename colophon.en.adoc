@@ -1,8 +1,3 @@
-// add cover image to img directory and update filename below
-ifdef::backend-html5[]
-image::img/web/photo.jpg[]
-endif::backend-html5[]
-
 == Colophon
 
 === Suggested citation
@@ -24,7 +19,3 @@ The document _GBIF Nodes Implementation Plan 2023_ is licensed under https://cre
 === Document control
 
 March 2023
-
-=== Cover image
-
-// Caption. Credit, source, licence.
