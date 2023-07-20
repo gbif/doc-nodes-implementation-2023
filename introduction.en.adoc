@@ -1,3 +1,4 @@
+[sidebar]
 This strategy has been prepared with the Nodes Steering Group in December 2022 to align with GBIF’s new https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[strategic framework^]. Following comments from the nodes, this final version was approved by the Nodes Steering Group during the mid-term meetings in March 2023.
 
 == Rationale
