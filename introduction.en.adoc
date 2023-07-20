@@ -11,9 +11,9 @@ The global objectives are aligned with GBIF’s strategic framework and implemen
 
 == The strategic objectives
 
-.	Engage research communities for data mobilization and use
-.	Support national biodiversity commitments and the science-policy interface
-.	Promote open biodiversity data approaches within the business and finance sectors
-.	Develop capacity within regional communities of practice
-.	Strengthen support services for collections communities
-.	Contribute to data model enhancements
+.	<<#1-engage-research-communities-for-data-mobilization-and-use,Engage research communities for data mobilization and use>>
+.	<<#2-support-national-biodiversity-commitments-and-the-science-policy-interface>>
+.	<<,Promote open biodiversity data approaches within the business and finance sectors>>
+.	<<,Develop capacity within regional communities of practice>>
+.	<<,Strengthen support services for collections communities>>
+.	<<,Contribute to data model enhancements>>
