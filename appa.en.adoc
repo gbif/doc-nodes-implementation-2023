@@ -1,5 +1,5 @@
 [appendix]
-== Example
+== Participant plans 2023
 
 An AsciiDoc appendix is just a document section with a 'specialsection' title.
 
