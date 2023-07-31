@@ -1,7 +1,7 @@
 [appendix]
 == Participant plans 2023
 
-=== Priority area 1
+=== Priority Area 1
 
 ==== Amazon Cooperation Treaty Organization
 
@@ -174,7 +174,7 @@ Kew and Natural History Museum staff will be involved in building the case for r
 * Promote the use of the DNA Derived Data extension in US eDNA forums.
 * Contribute to a session at Ecological Society of America annual meeting with key biodiversity data entities on GBIF4Ecology.
 
-=== Priority area 2
+=== Priority Area 2
 
 ==== Amazon Cooperation Treaty Organization
 
@@ -291,9 +291,152 @@ National Biodiversity Network have started a trial with the Environment Agency w
 * Serve as a possible liaison between GBIF and the GEO BON Marine Biodiversity Observation Network.
 * Increase coordination across the U.S. related to policy and relevant new partnerships.
 
+=== Priority Area 3
 
-=== Priority area 3
+==== Amazon Cooperation Treaty Organization
 
+===== 3.1 Identification, homogenization and publication of databases from Bolivia, Venezuela and Guyana
 
-=== Priority area 4
+This activity will be focused on working with the institutions of Bolivia, Venezuela and Guyana which have databases related to biodiversity, and which are expected to be loaded in the IPT of the ARO (the load includes homogenization). Likewise, the next step will be the connection of the IPT of the ARO with the GBIF to send the data. It is important to indicate that the data that is transferred will already be regionalized to the Amazon territory.
+
+===== 3.2 Integration of Member countries databases to the ARO (Brazil, Colombia, Ecuador, Peru, Suriname)
+
+This activity comprises a set of actions that aim to integrate into the ARO the various databases that the Member countries have been sharing with the GBIF. These data will not be part of the ARO's IPT (it would be replicating data without meaning), however, it will be part of the database and reports of the ARO's Biodiversity Module. In this case it will be necessary to apply the regionalization filter to the Amazonian territory.
+
+===== 3.3 Development and launch of tools related to the management and dissemination of biodiversity data
+
+The ARO plans to improve, update and launch the following tools in the first quarter of 2023, in the context of biodiversity data management:
+* Forests module (improvement and launch)
+* Biodiversity Module (improvement)
+* CITES Species Trade Module (data update)
+* Computerized Regional Platform for the promotion, promotion and interconnection of actors and markets associated with micro, small and medium-sized companies linked to the use of natural products that incorporate species of Amazonian biodiversity, with a focus on CITES species, of the Member Countries of ACTO (launch)
+
+The improvements are related to the development of software tools and uploading of new content related to the CITES Forests and Species modules.
+
+==== Andorra
+
+To make the GBIF portal more widely accessible to biodiversity managers in Andorra. To do this we intend to collaborate with neighbouring nodes, whose knowledge and experience will be invaluable.
+
+==== Argentina
+
+It is planned to continue with the data publication activities and the promotion of their reuse. It will continue to participate with other national nodes and institutions in CESP and similar projects. As a previous regional representative, I maintain communication with institutions from countries that do not yet have a node. Although I have put them in contact with the current regional representatives, I maintain frequent contact and respond to their queries. In the same way, with nodes formed, but without activity (like Peru) I maintain contact by answering queries to the members of the node and one or another potential publisher.
+
+Unfortunately, the ALA portal in Argentina was taken offline by order of the current Undersecretary, without even consulting the node.
+
+==== Australia
+
+===== Activity 3.2 Support and strengthen GBIF Nodes
+
+ALA will continue to provide active support to the Living Atlases as a sister service to the hosted portals function. 
+
+===== Activity 3.4 Develop capacity and skills
+
+ALA will continue to develop training modules applicable to local conditions. A new training and outreach coordinator will commence early in 2023 and she will be active in developing training materials, running webinars, and identifying future needs.
+
+===== Ongoing activities
+
+Australia will host the GB30 and biennial Global nodes meetings in October this year, in Canberra. This will provide a valuable opportunity to introduce international delegates to Australia and we will be very pleased to offer the opportunity to extend networks and support GBIF nodes and partners.  GB30 and the Global nodes meeting will be held in the week after TDWG2023, also planned for Australia. We hope that delegates will take the opportunity to make the  most of long flights and participate fully in both meetings. 
+
+==== Belgium
+
+* Coordinate the landscape of biodiversity-related initiatives(BIF)
+* Mobilize training and workshops
+* Pilot on Atlas of Living Flanders
+* Possible a first hosted portal(s) for Belgium
+* Act as mentor/trainer in GBIF network
+* GBIF cloud IPT  helpdesk for Europe and Asia
+
+==== Canadensys
+
+Our bi-annual publication tracking (https://community.canadensys.net/publication) clearly shows a bias toward plant collections, even though several important entomological and zoological collections are curated in Canada. We will work towards reducing this gap.
+
+Furthermore, a quick analysis of the distribution map of occurrences available through Canadensys and other partners demonstrates geographic data gaps, with data points biased towards the southern part of Canada. This issue cannot be solved entirely by us, and is linked to collection efforts, but we can target institutions that have been collecting in this under sampled regions and share these important metadata more broadly to the community.
+
+==== France
+
+* Training and engagement to strengthen and expand national data publication and use is a pillar of our ongoing strategy.
+* As NSG chair, french node manager will contribute to organize training sessions at the 2023 Global Nodes Meeting addressing needs raised by the nodes committee
+* Collaboration with other nodes and partners to support participation by more countries in GBIF
+
+Finalizing our contribution in 2 BID projects and CESP:
+
+* Mobilization and strengthening of biodiversity data supporting sustainable development in Côte d'Ivoire, BID national project lead by Ivory Cost 
+** Progress towards a regional data platform of West and Central African herbaria, BID regional  project lead by Togo
+
+CESP mentoring Armenia (new data connected to GBIF)
+
+* Development or enhancement of OpenObs, french data portal on species observation data build on Living Atlasesand promotion of hosted portals (considered for GBIF France website) 
+* Following of TDWG groups and standards
+
+==== Germany
+
+Collaboration with Czech Republic partners interested in GBIF and Kenya GBIF node
+Development of a Hosted Portal within the NFDi4Biodiversity scope (data from Germany) will be continued
+
+==== Ireland
+
+The National Biodiversity Data Centre will continue to publish all open access data automatically to GBIF. The Data Centre will also work to publish some datasets through the IPT to meet specific needs of dataset providers (i.e., different data and license types).
+
+Continue to engage with data providers (e.g., government bodies, agencies and museums) to strengthen and expand national data publication and use.
+
+One target within Ireland's National Biodiversity Action Plan is that from 2024 a system will be in place to facilitate enhanced contributions to EU and international data hubs and networks.
+
+==== Madagascar
+
+Data providers will again be asked to publish. Capacity building training (data mobilization, data cleaning, data use and publication) will be organised with the support of a mentor based in Madagascar (Mr Tsiky Rabetrano).
+
+Collaboration with other nodes (in Africa, or France) is also envisaged.
+
+==== Mexico
+
+Continue with training and engagement to strengthen and expand national data publication and use.
+
+==== Netherlands
+
+===== Activity 3.1
+
+Report on the economic evaluation of the GBIF network at the annual NLBIF stakeholder event which is scheduled for march 7.
+
+===== Activity 3.2
+
+Within the Dutch landscape there is an urgent need for guidance on publishing sensitive species data.
+
+===== Activity 3.4
+
+* The Dutch node aims to continue the collaboration with Indonesian partners in the BIFA programme and with stakeholders from the Dutch overseas areas in the Caraiben in the BID programme.
+* Engage with partners in the Biodiversity Genomics Europe project and the Dutch ARISE project on the training on the mobilisation of DNA derived data to GBIF."
+
+==== New Zealand
+
+Continue to provided support and guidance to existing and new data providers and interested parties at online meetings and via NZ Hosted Portal (https://www.gbif.org.nz), including GBIF data publication, quality assurance standard and technical requirements (e.g IPT). Attend Global Nodes meeting and work with other nodes to build capability and seek opportunities to build on and extend the NZ Hosted Portal including consideration of an NZ Living Atlas.
+
+==== Sweden
+
+* Training and engagement to strengthen and expand national data publication and use. SBDI/GBIF Sweden are planning to have several workshops on how to publish sequence based data as well as sample based data and how to update currently published occurrence datasets to fit this format. 
+* Explore possible partnerships and funding opportunities for financing the planned BIECA-project.
+* Continue work on stabilizing a dockerized version of the LA infrastructure for SBDI available at https://biodiversitydata.se. Implement the Pipelines module to this system.
+* Investigate the interest and possibility of setting up a hosted portal for the Sámpi region together with community partners. Sápmi covers part of Sweden, Norway, Finland and Russia. 
+
+==== Symbiota Support Hub
+
+* Provide georeferencing assistance through duplicate georeference harvesting
+* Continue/finalize API development
+* Develop tools for importing and exporting extended data (e.g., references, genetic data, associated occurrences, duplicates)
+* Continue outreach during portal campaigns
+* Continue to rework broken data publishing pipelines during portal campaigns"
+
+==== United Kingdom
+
+DiSSCo UK is developing a national data infrastructure that will integrate the UK’s natural science collections data and make this accessible to all. Part of this infrastructure will be completed in collaboration with GBIF, who are hosting the UK data portal for life science collections. This builds off of an existing GBIF infrastructure that is widely used by the scientific community, with data for millions of UK specimens already available via GBIF. The national portal will aggregate collections data uploaded to GBIF from UK institutions with a GRSciColl (The Global Registry of Scientific Collections) entry
+
+==== United States
+
+* Lead a monthly office hour support session to assist marine data providers with aligning their data to Darwin Core.
+* Lead at least one biological data mobilization workshop.
+* Contribute to GBIF North America coordination by serving on the GBIF North America Steering Committee.
+* Support US data providers / publishers with sharing their data by providing data reviews and access to the GBIF-US IPT.
+* Share findings from the economic valuation with the U.S. community.
+* More coordinated outreach opportunities across the U.S. community.
+
+=== Priority Area 4
 
