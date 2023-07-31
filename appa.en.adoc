@@ -176,6 +176,121 @@ Kew and Natural History Museum staff will be involved in building the case for r
 
 === Priority area 2
 
+==== Amazon Cooperation Treaty Organization
+
+===== 2.1 Dissemination of results of the ""Rapid Assessment of Biological Diversity and Ecosystem Services in the Amazon Basin/Region""
+
+The ACTO in connection with the ARO in 2023 will develop different activities for the dissemination of the results of the study of the ""Rapid Assessment of Biological Diversity and Ecosystem Services in the Amazon Basin/Region"" with the institutions of the different Member Countries, with the objective of strengthening the scientific-regulatory interface at the national level, and at the same time enabling the formulation of measures aimed at the conservation of biodiversity in an articulated manner, with a cross-border vision and/or on a regional scale."
+
+==== Andorra
+
+Continue and advance collaborative activities with public administrations to publish their data on the GBIF portal.
+
+==== Argentina
+
+Both the focal point for the CBD and for IPBES are not found either in the Ministry of Science or the Ministry of the Environment, but rather in the Ministry of Foreign Affairs. I have obtained the contact of the person in charge and we hope to meet him in March.
+
+==== Australia
+
+ALA's most relevant work, in addition to advocacy to Australian government regarding international policy commitments, will be to develop standardised data capture tools for data capture in the field. ALA's collaborations with Indigenous Ranger groups is likely to be the catalyst for the development of new tools.  
+
+==== Belgium
+
+* Riparias
+* Engaging BE experts in IPBES workplan
+* IPBES communication products targetted at BE stakeholders 
+* IUCN Belgium Day
+* Biodiversa+ activities
+* Biodivclim
+* Biodivscen
+
+==== Canadensys
+
+Discussion about a Canadian GeoBON node is ongoing and the Canadensys team is included in the discussion. This potential partnership is in direct alignment with the 2023 GBIF tasks for this priority.
+
+We currently don’t have the human resources to provide biodiversity reports that could be used by Canadian policy makers, but we hope that the data published through Canadensys will be used by reporting agencies.
+
+In order to present a more comprehensive picture of Canadian biodiversity, we would like to explore the possibility to publish datasets from the private sectors. This could unlock a vast amount of data both useful for researchers and policy makers.
+
+An ongoing discussion with Agriculture and Agri-Food Canada, about a partnership with the Canadensys network, could also be the starting point for a more cohesive approach for collating data and collaboration amongst Canadian Natural History collections."
+
+==== Denmark
+
+DanBIF is actively involved in increasing the awareness of the importance and strength in the use and provision of data to GBIF towards the industry and financial sector.  
+
+==== France
+
+Continue liaising with CHM focal point and the french BON of GEOBON (lead by PNDB national pole of biodiversity data from the research ministry and SIB Information system for biodiversity from ecology ministry)
+
+* Starting liaising with CITES and RAMSAR more closely
+* Involvement in EU projects such as Biodiversa+ (pilot use-case on DWC and monitoring data) and DiSSco (e.g. : contribution in training work package in DiSSCo prepare)
+* Engagement with the business and finance sectors to encourage sharing and use of biodiversity data : Data4Nature (AFD), DEPOBIO (legal repository of observational data from impact studies for private sector), international private companies based in France
+
+==== Ireland
+
+The 4th National Biodiversity Action Plan (NBAP) for Ireland is currently under development and will set out the national biodiversity agenda for 2023-2027 in line with commitments under the Convention on Biological Diversity. 
+
+* The National Biodiversity Data Centre will play a role in many aspects of the NBAP including developing a robust monitoring and evaluation framework to track progress and continue to work in conjunction with partners to strengthen the science base and enhance data accessibility. 
+* The Data Centre will also ensure that Ireland increases the quantity and quality of its contributions to European and international biodiversity data hubs and networks such as the GBIF and the European Environment Agency
+
+The National Biodiversity Data Centre also provides the information, data and reporting services on behalf of the State Agency with implementation of the EU Regulation on Invasive Alien Species. 
+
+==== Madagascar
+
+The synergy between the entities working on biodiversity (CHM Madagascar, IPBES...) and MadBIF will be reinforced 
+
+==== Mexico
+
+Increase number of occurrence records, checklist and national publishers.
+
+==== Netherlands
+
+===== Activity 2.1
+
+* NLBIF aims to increase the relevance of Dutch biodiversity data for CBD indicators through engagement with relevant stakeholders in the Netherlands.
+* NLBIF aims to establish connections with the national focal points for the CBD, CMS, CITES and Ramsar.
+
+===== Activity 2.2
+
+NLBIF aims to link Dutch data publishers that hold marine biodiversity data that is currently shared through the ""Informatiehuis Marien""  [https://www.informatiehuismarien.nl/uk/] to GBIF.
+
+===== Activity 2.3
+
+* NLBIF is working on mobilising species list with protected species according Dutch and EU laws to COL CheckListBank to increase the policy relevance of GBIF mediated biodiversity data.
+* NLBIF aims to become active in mobilising data from Environmental Impact Assessment that are commisioned by governmental organisations and financial institutions.
+* NLBIF collaborates on a Biodiversa+ application which currently is pending decision.
+
+===== Activity 2.4
+
+NLBIF is trying to establish connections with Dutch Investment Companies to mobilise biodiversity data under the implementation of the Equator Principles."
+
+==== New Zealand
+
+Support for implementation of national commitments under the Convention on Biological Diversity (CBD). We are engaging with NZ central government agencies to communicate benefits of GBIF infrastructure and promote the benefit of data mobilisation to GBIF for NZ contribution to post-2020 Global Biodiversity Framework.
+
+==== Sweden
+
+* Explore possible partnerships and funding opportunities for financing the planned BIECA-project.
+* Continue to build the SBDI network in Sweden and promote GBIF within this community.
+
+==== Symbiota Support Hub
+
+* Continue schema development to incorporate indexing of agents
+* Produce mapping of Symbiota schema to new GBIF data model
+* Continue development of taxonomy module
+* Continue Help Desk support and digitization workflow assistance
+* Continue to curate GRSciColl as part of Portal Campaigns, including adding Symbiota UUIDs to collections
+
+==== United Kingdom
+
+National Biodiversity Network have started a trial with the Environment Agency whereby consultants contracted by the EA under their EcoServices Framework must share their species records directly with the NBN Atlas, and then on to GBIF. 
+
+==== United States
+
+* Support GBIF in developing a strategy for marine biodiversity through continued partnership with OBIS.
+* Serve as a possible liaison between GBIF and the GEO BON Marine Biodiversity Observation Network.
+* Increase coordination across the U.S. related to policy and relevant new partnerships.
+
 
 === Priority area 3
 
