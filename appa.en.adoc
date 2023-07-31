@@ -43,7 +43,7 @@ ALA will continue to work with a local project, EcoCommons, an Australian initia
 
 ALA supports an active Indigenous Ecological Knowledge program, currently focused on language and descriptions of species. During 2023 engagement with Indigenous Ranger groups may be a new way to collaborate. Ranger groups are likely to be collecting biodiversity data in the field that could be mapped to either occurrences or events data models."
 
-=== Belgium	
+==== Belgium	
 
 * advance collaborative activities with soil, freshwater, disease vector and eDNA research communities.
 * Support biodiversity data mobilization
@@ -173,3 +173,12 @@ Kew and Natural History Museum staff will be involved in building the case for r
 * Lead an Earth Science Information Partners Cluster to promote the use of standards, e.g. Darwin Core, for biological observation data.
 * Promote the use of the DNA Derived Data extension in US eDNA forums.
 * Contribute to a session at Ecological Society of America annual meeting with key biodiversity data entities on GBIF4Ecology.
+
+=== Priority area 2
+
+
+=== Priority area 3
+
+
+=== Priority area 4
+
