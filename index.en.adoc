@@ -1,7 +1,7 @@
 = GBIF Nodes Implementation Plan 2023
 GBIF Nodes Steering Group
 :toc: left
-:toclevels: 3
+:toclevels: 2
 :numbered:
 :revnumber: {git-metadata-sha-short}
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
