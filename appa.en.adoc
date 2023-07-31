@@ -440,3 +440,129 @@ DiSSCo UK is developing a national data infrastructure that will integrate the U
 
 === Priority Area 4
 
+==== Andorra
+
+Complete the migration to Google Cloud Platform, set up a new landing page.
+
+==== Amazon Cooperation Treaty Organization
+
+===== 4.1 Development of capacities in the use of tools for the digitization of biodiversity data and integration with the GBIF
+
+ACTO will organize at least 2 workshops (virtual or face-to-face) aimed mainly at representatives of Member countries that are not part of GBIF on topics for which GBIF already has sufficient materials such as: data digitization, data mobilization, the use of IPT and data sharing, as well as the use of data for decision making. For training events, the ARO will coordinate to have the support of GBIF (i.e., other nodes or GBIF staff)
+
+==== Argentina
+
+As mentioned in priority 1, we are reformulating (together with the nodes in Ecuador and Guatemala) a CESP project to increase and improve the records of institutions and collections in our respective countries.
+
+==== Australia
+
+===== Activity 4.1 Robustness of GBIF infrastructure
+
+ALA and GBIF have developed and active and collaborative working relationship over the past few years and this will continue in 2023. ALA will continue to collaborate on projects related to the unified data model, and continue to develop the Events system built during 2022. 
+
+===== Activity 4.2 Services for data publishers and users
+
+A significant piece of work planned for 2023 is to update, better integrate and fully revise the taxonomic backbone used by ALA and the code underlying how it is built. New requirements have emerged from the Biosecurity and Restricted Access Species projects that mean that the taxonomic backbone must be much more rigorously built, governed and maintained than it has been in the past. A subject matter expert has been engaged to lead the project and an additional developer is being recruited. We hope to form an active collaboration with the Catalogue of Life and with GBIF to ensure that species found in Australia are represented accurately in the taxonomic schema.
+
+===== Activity 4.3 Enhance features and capabilities
+
+ALA will continue work on the prototype implementation of the Events-based presentation of data. ALA will also actively participate in the further development of the unified data model and how it might be implemented for exemplar data such as genomic data, eDNA and machine observations.
+
+===== Activity 4.4 Drive data standards development
+
+An ALA staff member is now the Chair of the TDWG Executive during 2023-2024 so this will encourage a standards-focus for the ALA team.
+
+==== Belgium
+
+* Maintain GBIF Registry and GRSciColl
+* Support for the unified model (use cases)
+
+==== Canadensys
+
+Canadensys is currently using a Living Atlases framework to allow users to navigate through data, collections, and datasets, while relying on an IPT for data publication. Our informatics framework is hosted on the Alliance Canada cloud service, which is supporting us for a second three-year period (2021-2024). 
+
+This infrastructure has allowed us to experiment new features, to offer new services to our users and to be part of the inspiring LA community.
+
+However, limited funding and human resources oblige us to find solutions requiring less technical skills, both in term of infrastructure and human resources. For this reason, our plan for 2023 is to submit to GBIF a project for a Canadensys Hosted Portal, in association with the Canadian GBIF node (CBIF) based at Agriculture and Agri-Foods Canada. This transition to a solution which will likely require less time and technical resources will allow us to  better focus our services to data publishers and especially to natural history collections. We are planning to revise our list of Canadian Natural History Collections and to offer our services to support digitization and publication of datasets. This collection checklist would be useful for the revision of the Canadian collections listed in GrSciColl.
+
+We are planning to update the Canadensys IPT to the most recent package during 2023 and to update data standards used within datasets when required.
+
+==== Denmark
+
+DanBIF and DaSSCo will continue to improve the content in GRSciColl regarding Danish natural history collection. DanBIF is planning to increase its IT infrastructure by adding an additional IPT and media server.
+
+==== France
+
+* Update of TAXREF,  national checklist
+* Engagement with national collection communities to improve content of the Global Registry of Scientific Collections (GRSciColl)
+* Engagement with the diversification of the GBIF data model to address the needs of different national data-holding communities
+* Improvements to national informatics infrastructure : maintaining of OpenObs, french observational data portal based on LA portals
+* Continuing contributing of develoment of IPT
+
+==== Germany
+
+There are plans to improuve the content od GRSciColl for all organisations (data publishers)  of the GBIF Germany node network
+
+The national informatics infrastructure might be improuved through new engagements by national funders supporting the adaption of the GBIF data model to the needs of national data-holding communities
+
+==== Ireland
+
+* Maintain and ensure continued success of Ireland’s biodiversity mapping portal ‘Biodiversity Maps’
+* Allocate time to Global Registry of Scientific Collections (GRSciColl) to ensure dataset providers are represented
+
+==== Madagascar
+
+Search for funding for the acquisition of powerful computer equipment
+Improve data quality and diversify data for users (researchers, policy makers, students, NGOs etc...)
+
+==== Mexico
+
+* Continue with training and data quality review in own datasets and data providers datasets.
+* Continue with collaboration on translation of IPT manual. Continue with participation in Data model use cases and to review and synchronize the Collections Catalogue with the GRSciColl.
+
+==== Netherlands
+
+===== Activity 4.2
+
+NLBIF will continue to curate the GRSciColl records from Dutch DiSSCo partners and assist in the further mobilisation of specimen derived data to GBIF.
+
+===== Activity 4.3
+
+NLBIF is looking forward to:
+
+* the implementation of the Latimer Core.
+* the material catalogue to capture specimen information.
+* annotation services.
+
+===== Activity 4.4
+
+NLBIF is looking forward to upload species lists to COL CheckListBank using the GBIF IPT."
+
+==== New Zealand
+
+Improvements to NZ Hosted Portal infrastructure with implementation of IPT. New Zealand provides a continuously updated national species checklist mobilised through the New Zealand Organisms Register (NZOR) project and we would like to provide this service via GBIF and the COL.
+
+==== Sweden
+
+* Engage with national collection communities to improve content of the Global Registry of Scientific Collections (GRSciColl), and clean-up legacy datasets with erroneous publishers.
+* Update and remake the front-end and UX/UI for www.gbif.se. 
+* Participation and engagement in developing data standards and best practices; participate in TDWG.
+* Apply for research infrastructure funding for the period 2025-2028.
+* Continue to build the SBDI network in Sweden and promote GBIF within this community.
+
+==== Symbiota Support Hub
+
+* Continue data quality assessments during portal campaigns
+* Continue to provide data cleaning and curation support during portal campaigns
+* Continue to provide training during Symbiota Support Group webinars and through documentation resources
+
+==== United Kingdom
+
+GBIF's GRSciColl will be integrated in the  DiSSCo UK portal and act as a one-stop registry for institutional information on natural science collections. Current DiSSCo UK work is focussed on ensuring all UK natural science collections are represented on GRSciColl, enabling their data to be included in the portal. The use of GRSciColl as an aggregator of institutional information will improve the visibility of UK collections, open up opportunities for collaboration and support, and enhance data mobilisation efforts.
+
+NBN Trust have supported NatureMetrics by formatting the Forestry England eDNA-derived dataset as a Darwin Core Archive, so that NM understand the process and can use it as a template for their other clients.
+
+==== United States
+
+* Lead an OBIS project team to explore early adoption and testing of the new data model to assess how well it works for OBIS community data, noting and sharing back to the data model team any problems encountered, suggestions for improvements, and feasibility of uptake.
+* Increase engagement in hosted portal process
