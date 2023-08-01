@@ -75,7 +75,7 @@ Nodes have been actively contributing to updating and enriching the content of t
 
 Nodes are encouraged to:
 
-_	Contribute actively to updating GRSciColl and engaging institutions with collections and relevant societies and networks in data mobilization.
+*	Contribute actively to updating GRSciColl and engaging institutions with collections and relevant societies and networks in data mobilization.
 * Support the development of https://www.gbif.org/hosted-portals[hosted portals^] for collections.
 
 === 6. Contribute to data model enhancements
