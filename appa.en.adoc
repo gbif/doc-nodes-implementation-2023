@@ -306,6 +306,7 @@ This activity comprises a set of actions that aim to integrate into the ARO the 
 ===== 3.3 Development and launch of tools related to the management and dissemination of biodiversity data
 
 The ARO plans to improve, update and launch the following tools in the first quarter of 2023, in the context of biodiversity data management:
+
 * Forests module (improvement and launch)
 * Biodiversity Module (improvement)
 * CITES Species Trade Module (data update)
