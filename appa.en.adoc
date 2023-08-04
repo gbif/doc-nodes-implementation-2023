@@ -1,6 +1,8 @@
 [appendix]
 == Participant plans 2023
 
+Towards the end of each year, the GBIF Secretariat asks Participants to outline any work they have aligned to the priority areas identified in the GBIF’s work programme for the upcoming year. This appendix includes the plans Participants provided for 2023.
+
 === Priority Area 1
 
 ==== Amazon Cooperation Treaty Organization
