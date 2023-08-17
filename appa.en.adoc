@@ -3,6 +3,7 @@
 
 Towards the end of each year, the GBIF Secretariat asks Participants to outline any work they have aligned to the priority areas identified in the GBIF’s work programme for the upcoming year. This appendix includes the plans Participants provided for 2023.
 
+[[plans-priority-1]]
 === Priority Area 1
 
 ==== Amazon Cooperation Treaty Organization
@@ -27,7 +28,6 @@ Incorporate data from participatory science and other scientific monitoring into
 
 ////
 Argentina is ready to lose its node category due to the 5-year rule as an associate. Unfortunately, the new government does not consider the activities that it supported in the past to be of interest. From the node we are seeking support, but we are still not sure. We have already scheduled a series of meetings for the return of the holidays (until March there is no activity of interest) so we still do not know what support we will be able to have from the ministries and similar institutions.
-////
 
 GBIF's 20-year history has created a strong and communicative community of data publishers. Publishers continue to publish their data even without monetary support. We have continued to contact new institutions and collections in 2022 and plan to do so in 2023. Furthermore, the GrSciColl initiative will help to include new actors.
 
@@ -182,6 +182,7 @@ Kew and Natural History Museum staff will be involved in building the case for r
 * Promote the use of the DNA Derived Data extension in US eDNA forums.
 * Contribute to a session at Ecological Society of America annual meeting with key biodiversity data entities on GBIF4Ecology.
 
+[[plans-priority-2]]
 === Priority Area 2
 
 ==== Amazon Cooperation Treaty Organization
@@ -299,6 +300,7 @@ National Biodiversity Network have started a trial with the Environment Agency w
 * Serve as a possible liaison between GBIF and the GEO BON Marine Biodiversity Observation Network.
 * Increase coordination across the U.S. related to policy and relevant new partnerships.
 
+[[plans-priority-3]]
 === Priority Area 3
 
 ==== Amazon Cooperation Treaty Organization
@@ -449,6 +451,7 @@ DiSSCo UK is developing a national data infrastructure that will integrate the U
 * Share findings from the economic valuation with the U.S. community.
 * More coordinated outreach opportunities across the U.S. community.
 
+[[plans-priority-4]]
 === Priority Area 4
 
 ==== Andorra
