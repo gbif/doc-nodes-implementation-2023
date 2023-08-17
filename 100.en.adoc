@@ -18,6 +18,8 @@ Nodes are encouraged to:
 * Support the development and implementation of national policies on open science and data to implement FAIR and CARE principles.
 * Know, seek and develop key partnerships with national, regional, global and thematic research infrastructures to help drive the agenda around data-intensive biodiversity research.
 
+    <<plans-priority-1>>
+
 == Priority Area 2: Policy and Partnerships
 
 _Developing partnerships that benefit policy and society_
@@ -43,6 +45,8 @@ Nodes are encouraged to:
 * Engage with national environment monitoring authorities to encourage mandatory publishing of primary biodiversity data through GBIF as part of the ESIA process (see resources developed by the https://www.gbif.org/project/83336/[CESP BIREME project^]).
 * Engage with national development agencies to promote requirements for data publication in projects supported by development finance or overseas development assistance.
 
+    <<plans-priority-2>>
+
 == Priority Area 3: Community and Capacity
 
 _Developing the GBIF network to meet future needs and challenges_
@@ -65,6 +69,8 @@ Nodes are encouraged to:
 * Further explore partnerships between nodes and the regional support teams to support the work of the nodes, as well as broader capacity development in the region, and contribute to discussions on the future of this approach.
 * Contribute to the development of future capacity development programmes, such as the https://www.gbif.org/bid[Biodiversity Information for Development^] (BID) programme.
 
+    <<plans-priority-3>>
+
 == Priority Area 4: Infrastructure and data products
 
 _Maintain and evolve infrastructure to advance biodiversity-related knowledge_
@@ -86,3 +92,5 @@ Nodes are encouraged to:
 
 * Participate in the regular webinars exploring the https://www.gbif.org/new-data-model[new data model^].
 * Engage in the development and testing of new training materials and documentation to support data publishing with the new data model.
+
+    <<plans-priority-4>>
