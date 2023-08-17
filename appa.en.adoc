@@ -9,7 +9,7 @@ Towards the end of each year, the GBIF Secretariat asks Participants to outline 
 
 ===== 1.1 Formation and consolidation of technical groups of Amazonian biodiversity
 
-The Organization of the Amazon Cooperation Treaty https://www.gbif.org/participant/426[ACTO] through the Amazon Regional Observatory (ARO) is working with the Member Countries for the formation of the Technical Group of Biodiversity that will be made up of experts from the Member Countries and whose objectives are to address aspects of the criteria related to the distribution of Amazonian species, the management of the synonymies of the species, the classifications of invasive species and the national lists of Amazonian species, including the determination of groups or lists of (Amazonian) species, and also the prioritization of activities based on emblematic species.
+The Organization of the Amazon Cooperation Treaty Organization https://www.gbif.org/participant/426[ACTO] through the Amazon Regional Observatory http://otca.org/en/the-aro-steering-committee-is-briefed-on-the-latest-updates/[ARO] is working with the Member Countries for the formation of the Technical Group of Biodiversity that will be made up of experts from the Member Countries and whose objectives are to address aspects of the criteria related to the distribution of Amazonian species, the management of the synonymies of the species, the classifications of invasive species and the national lists of Amazonian species, including the determination of groups or lists of Amazonian species, and also the prioritization of activities based on emblematic species.
 
 Once the Technical Group is formed, it is expected that it determine its thematic priorities, prepare its work plans and start with the execution of the activities.
 
@@ -87,13 +87,13 @@ There are several citizen science research initiatives in 2023 that will use the
 * Targeting mobilisation on specific themes
 * Following the translation of the Guide to publishing sequence-derived data in french, organising training in that thematic for the francophone audience. 
 * Support for application of data in biodiversity modelling and prediction
-* Liaising with LTER french community and french partners involved in https://bicikl-project.eu/[BiCKL]
+* Liaising with LTER French community and French partners involved in https://bicikl-project.eu/[BiCKL]
 * Involvement in national policies on open science and data to implement https://www.go-fair.org/fair-principles/[FAIR] and https://www.gida-global.org/care[CARE principles]
 * The French node manager is nominated in REISO : French network of international experts organised by the ministry of research to promote open science and french policy regarding open science.
 
 ==== Germany
 
-The GBIF Germany node network with several organisations involved has established agreed data pipelines for GBIF. 2023 data mobilisation  will be done via involvement in the NFDI4Biodiversity consortium as part of the German National Resaerch Data Infrastructure (NFDI)
+The GBIF Germany node network with several organisations involved has established agreed data pipelines for GBIF. 2023 data mobilisation  will be done via involvement in the https://www.nfdi4biodiversity.org/en/[NFDI4Biodiversity] consortium as part of the German National Resaerch Data Infrastructure https://www.nfdi.de/[NFDI]
 
 ==== Ireland
 
