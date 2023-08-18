@@ -10,7 +10,7 @@ Towards the end of each year, the GBIF Secretariat asks Participants to outline 
 
 ===== 1.1 Formation and consolidation of technical groups of Amazonian biodiversity
 
-The Organization of the Amazon Cooperation Treaty Organization https://www.gbif.org/participant/426[ACTO] through the Amazon Regional Observatory http://otca.org/en/the-aro-steering-committee-is-briefed-on-the-latest-updates/[ARO] is working with the Member Countries for the formation of the Technical Group of Biodiversity that will be made up of experts from the Member Countries and whose objectives are to address aspects of the criteria related to the distribution of Amazonian species, the management of the synonymies of the species, the classifications of invasive species and the national lists of Amazonian species, including the determination of groups or lists of Amazonian species, and also the prioritization of activities based on emblematic species.
+The Organization of the https://www.gbif.org/participant/426[Amazon Cooperation Treaty Organization^] (ACTO) through the https://oraotca.org/en/home/[Amazon Regional Observatory^] (ARO) is working with the Member Countries for the formation of the Technical Group of Biodiversity that will be made up of experts from the Member Countries and whose objectives are to address aspects of the criteria related to the distribution of Amazonian species, the management of the synonymies of the species, the classifications of invasive species and the national lists of Amazonian species, including the determination of groups or lists of Amazonian species, and also the prioritization of activities based on emblematic species.
 
 Once the Technical Group is formed, it is expected that it determine its thematic priorities, prepare its work plans and start with the execution of the activities.
 
@@ -42,7 +42,7 @@ Unfortunately, the current government does not implement the FAIR principles in 
 
 ===== Activity 1.1 Mobilisation and use of biodiversity data
 
-ALA is likely to be active in working on delivery of DNA-derived data. A postdoctoral fellow will commence work in June 2023. Her expertise and interests are in eDNA and her project will focus on how to best model upload of eDNA derived data into ALA; including how to update records as Australian DNA reference libraries continuously improve and add new species. Projects outside of ALA but allied closed will continue during 2023 - the National Barcode DNA Library that is creating a sequence library for Australian species; and the Australian Research Genome Atlas https://arga.org.au/[ARGA], a project to provide pointers to sequences for Australian species in order to make them searchable and accessible. 
+ALA is likely to be active in working on delivery of DNA-derived data. A postdoctoral fellow will commence work in June 2023. Her expertise and interests are in eDNA and her project will focus on how to best model upload of eDNA derived data into ALA; including how to update records as Australian DNA reference libraries continuously improve and add new species. Projects outside of ALA but allied closed will continue during 2023 - the National Barcode DNA Library that is creating a sequence library for Australian species; and the https://arga.org.au/[Australian Research Genome Atlas^] (ARGA), a project to provide pointers to sequences for Australian species in order to make them searchable and accessible. 
 
 ===== Activity 1.2 Biodiversity modelling
 
@@ -88,13 +88,13 @@ There are several citizen science research initiatives in 2023 that will use the
 * Targeting mobilisation on specific themes
 * Following the translation of the Guide to publishing sequence-derived data in french, organising training in that thematic for the francophone audience. 
 * Support for application of data in biodiversity modelling and prediction
-* Liaising with LTER French community and French partners involved in https://bicikl-project.eu/[BiCKL]
+* Liaising with LTER French community and French partners involved in https://bicikl-project.eu/[Biodiversity Community Integrated Knowledge Library^] (BiCKL)
 * Involvement in national policies on open science and data to implement https://www.go-fair.org/fair-principles/[FAIR] and https://www.gida-global.org/care[CARE principles]
 * The French node manager is nominated in REISO : French network of international experts organised by the ministry of research to promote open science and french policy regarding open science.
 
 ==== Germany
 
-The GBIF Germany node network with several organisations involved has established agreed data pipelines for GBIF. 2023 data mobilisation  will be done via involvement in the https://www.nfdi4biodiversity.org/en/[NFDI4Biodiversity] consortium as part of the German National Resaerch Data Infrastructure https://www.nfdi.de/[NFDI]
+The GBIF Germany node network with several organisations involved has established agreed data pipelines for GBIF. 2023 data mobilization  will be done via involvement in the https://www.nfdi4biodiversity.org/en/[NFDI4Biodiversity] consortium as part of the German https://www.nfdi.de/[National Resaerch Data Infrastructure^] (NFDI).
 
 ==== Ireland
 
@@ -128,7 +128,7 @@ Diversification of data types is among MadBIF's priorities. Data on microorganis
 ===== Activity 1.2
 
 * The NLBIF node manager also act as the DiSSCo-NL National Node representative and assists Natural History Museums in the Netherlands with the mobilisation of their data to GBIF.
-* The NLBIF node manager is invloved in the https://www.mambo-project.eu/[EU MAMBO] (Modern Approaches to the Monitoring of BiOdiversity) and https://biodiversitygenomics.eu/[EU BGE] (Biodiversity Genomics Europe) projects and aims to publish project derived biodiversity data to GBIF.
+* The NLBIF node manager is invloved in the https://www.mambo-project.eu/[Modern Approaches to the Monitoring of Biodiversity^] (EU MAMBO) and https://biodiversitygenomics.eu/[Biodiversity Genomics Europe^] (EU BGE) projects and aims to publish project derived biodiversity data to GBIF.
 
 ===== Activity 1.3
 
@@ -207,9 +207,9 @@ ALA's most relevant work, in addition to advocacy to Australian government regar
 ==== Belgium
 
 * Riparias
-* Engaging BE experts in https://www.ipbes.net/[IPBES] workplan
+* Engaging BE experts in IPBES workplan
 * IPBES communication products targetted at BE stakeholders 
-* https://www.iucn.org/[IUCN] Belgium Day
+* IUCN Belgium Day
 * Biodiversa+ activities
 * Biodivclim
 * Biodivscen
@@ -257,7 +257,7 @@ Increase number of occurrence records, checklist and national publishers.
 
 ===== Activity 2.1
 
-* NLBIF aims to increase the relevance of Dutch biodiversity data for https://www.cbd.int/[CBD] indicators through engagement with relevant stakeholders in the Netherlands.
+* NLBIF aims to increase the relevance of Dutch biodiversity data for CBD indicators through engagement with relevant stakeholders in the Netherlands.
 * NLBIF aims to establish connections with the national focal points for the CBD, CMS, CITES and Ramsar.
 
 ===== Activity 2.2
