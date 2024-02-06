@@ -19,4 +19,6 @@ include::100.en.adoc[]
 
 include::appa.en.adoc[]
 
+include::appb.en.adoc[]
+
 include::colophon.en.adoc[]
